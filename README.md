@@ -12,9 +12,9 @@ The repository is organized into the following sections:
 - **Projects**: Projects which I have worked on.
 
 # How to Use
--Clone or download the repository.
--Each folder contains individual Java programs related to specific topics.
--To run the programs, ensure you have Java installed on your system.
+- Clone or download the repository.
+- Each folder contains individual Java programs related to specific topics.
+- To run the programs, ensure you have Java installed on your system.
 
 # Acknowledgements
 This repository reflects my learning journey and continuous improvement in Java programming. Any feedback is welcome!
