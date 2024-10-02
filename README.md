@@ -7,7 +7,6 @@ This repository contains all the **Java programs** and projects that I have comp
 
 ## Repository Structure
 The repository is organized into the following sections:
-- **Assignments**: Coursework-related Java programs Practiced on Infosys Springboard.
 - **Experiments**: All Experiments which I have performed during college lab.
 - **Projects**: Projects which I have worked on.
 
